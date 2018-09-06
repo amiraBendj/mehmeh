@@ -14,6 +14,11 @@ public class MainActivity extends AppCompatActivity {
 
         // bla bla bla bla
         System.out.println("Heeey !");
+        /* jo3te
+        jo3te
+        jo3te
+        jo3te
+         */
     }
 
     public void wailMethod(){
